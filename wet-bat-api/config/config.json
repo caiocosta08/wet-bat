@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": null,
+    "database": "wet_bat",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "remote",
+    "password": "AVNS_9K7XI1hBcqNqcVDW5ez",
+    "database": "wet_bat",
+    "host": "db-mysql-sfo3-56208-do-user-6598286-0.b.db.ondigitalocean.com",
+    "dialect": "mysql"
+  }
+}
